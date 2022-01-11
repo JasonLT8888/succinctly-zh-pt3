@@ -6,7 +6,7 @@
 > 
 > 阶段：机翻（1）
 > 
-就是说一些自己都不相信的话。——燕京学堂鹿会
+> 人最大的痛苦就是说一些自己都不相信的话。——燕京学堂鹿会
 
 * [在线阅读](https://scnc3.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
